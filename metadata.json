@@ -1,0 +1,6 @@
+{
+  "name": "Smart Journal & Planner",
+  "description": "An AI-powered daily journal, mood tracker, and smart task planner backed by Room and Google Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
